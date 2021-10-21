@@ -13,7 +13,12 @@ The objective is to develop a model for the substance classification of sewer sy
   7. The methodology must be structured to link with other urban infrastructures to implement a multi-sectoral strategy with adequate adaptation.
 
 
-## Condition classification according to DWA-M 149-3 (EN 13508-2)
+## Condition classification according to DWA-M 149-2
+
+### Damage coding
+The coding for this work is based on the standards DIN EN 13508-2 (DIN EN, 2011) and DWA-M 149-2 (DWA, 2013b). The damage is coded according to type, location, and characteristics. A code is assigned to each damage, which contains a clear description and quantification of the damage.
+
+
 
 
 ## References:
